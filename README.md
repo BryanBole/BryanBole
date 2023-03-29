@@ -1,6 +1,7 @@
 <div align="center">
 	<h1 align="center">Hi, I'm Bryan Bôle</h1>
 </div>
+
 ## 💬 About me:
 
 - 🌱 I’m currently working on epitech projects<br><br>I’m currently learning to make mobile app in Kotlin<br><br>I’m looking to find an internship in app, web development or in cyber security<br><br>You can see exemple of my epitech projects below<br>
