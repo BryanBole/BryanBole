@@ -1,3 +1,24 @@
+<div align="center">
+	<h1 align="center">Hi <img width="35" src="./assets/waving.gif">, I'm Maxime Carabina</h1>
+</div>
+
+<div align="center">
+  <a href="https://github.com/maxime-carabina">
+  	<img src="./assets/grid-snake.svg" alt="snake" />
+	</a>
+</div>
+
+<br/>
+
+
+---
+
+<br/>
+
+## 💬 About me:
+
+- 🌱 I'm a developer in training at **Epitech Technology**
+
 #                                                                💫 About Me:
 I’m currently working on epitech projects<br><br>I’m currently learning to make mobile app in Kotlin<br><br>I’m looking to find an internship in app, web development or in cyber security<br><br>You can see exemple of my epitech projects below<br>
 
