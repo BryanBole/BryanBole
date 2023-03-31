@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Bryan !</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanbole&label=Profile%20views&color=0e75b6&style=flat" alt="bryanbole" /> </p>
 
+- I’m currently working on **epitech projects**
+
+- >You can see exemple of **my epitech projects below**
+
+- - I’m currently learning to make **mobile app in Kotlin**
+
+- - I’m looking to find an internship in app, **web development or in cyber security**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
