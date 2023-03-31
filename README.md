@@ -4,7 +4,7 @@
 
 ## 💬 About me:
 
-- I’m currently working on epitech projects<br><br>- I’m currently learning to make mobile app in Kotlin<br><br>- I’m looking to find an internship in app, web development or in cyber security<br><br>- You can see exemple of my epitech projects below<br>
+- I’m currently working on epitech projects<br>- I’m currently learning to make mobile app in Kotlin<br><br>- I’m looking to find an internship in app, web development or in cyber security<br><br>You can see exemple of my epitech projects below<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Bryan'#0909) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bryan.bll7)
