@@ -6,7 +6,7 @@
 
 - You can see exemple of **my epitech projects below**
 
-- I’m currently learning to make **mobile app in Kotlin**
+- I’m currently learning to make **mobile app in Kotlin and Flutter**
 
 - I’m looking to find an internship in app, **web development or in cyber security**
 
